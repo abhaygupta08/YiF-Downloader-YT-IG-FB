@@ -1,0 +1,6 @@
+requests==2.25.1
+pytube==10.4.1
+clint==0.5.1
+regex==2020.11.13
+urllib3==1.26.2
+validators==0.18.2
