@@ -13,7 +13,7 @@ MAJOR CONTRIBUTIONS :
 USAGE :
 1. open cmd
 2. execute "cd Desktop" (or any other suitable folder)
-3. execute "git clone https://github.com/abhaygupta08/YiF-Downloader-YT-IG-FB-.git"
+3. execute "git clone https://github.com/abhaygupta08/YiF-Downloader-YT-IG-FB.git"
 4. execute "cd YiF-Downloader-YT-IG-FB-" (use Tab Completion for Better Navigation)
 5. execute "pip install -r requirements.txt"
 6. execute "python main.py"
