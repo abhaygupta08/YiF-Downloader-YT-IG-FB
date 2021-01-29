@@ -2,20 +2,30 @@
 
 -----------------------------------------------------------
 
-Requirements - 
+MAJOR CONTRIBUTIONS :
 1. tkinter
-2. requests==2.25.1
-3. pytube==10.4.1
-4. regex==2020.11.13
-5. urllib3==1.26.2
-6. clint==0.5.1
-7. validators==0.18.2
+2. requests
+3. urllib
+4. pytube
+5. regex
+-----------------------------------------------------------
 
+USAGE :
+1. open cmd
+2. execute "cd Desktop" (or any other suitable folder)
+3. execute "git clone https://github.com/abhaygupta08/YiF-Downloader-YT-IG-FB-.git"
+4. execute "cd YiF-Downloader-YT-IG-FB-" (use Tab Completion for Better Navigation)
+5. execute "pip install -r requirements.txt"
+6. execute "python main.py"
+7. Rest of other Operations are GUI Based :) Enjoy !
 
-----------------------------------------------------------
+-----------------------------------------------------------
+
++=
 
 Downloading from Facebook, Instagram and Youtube is not considered illegal untill if it is used for personal use 
-+= Use for Study Purposes
 
-----------------------------------------------------------
++= 
+
+-----------------------------------------------------------
 
